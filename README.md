@@ -1,2 +1,2 @@
-# READ.ME
+# README.md
 learn about obsidian and RAG.
